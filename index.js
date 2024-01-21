@@ -7,3 +7,7 @@ function welcome(){
     console.log( a + b)
 }
 welcome(5, 10)
+
+function newFun(){
+    console.log("hey i am new function")
+}
